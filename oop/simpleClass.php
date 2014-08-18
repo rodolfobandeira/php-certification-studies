@@ -1,6 +1,6 @@
 <?php
 
-class ThisIsMyClass() {
+class ThisIsMyClass {
 
     public function hi() {
         return "My class!";
