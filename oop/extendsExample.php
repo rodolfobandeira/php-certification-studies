@@ -14,10 +14,7 @@ class B extends A {
 
 $object = new B();
 
-$object->method_b(); // We can call method_b from 
-$object->method_a(); // We can call method_a using class 'B' 
+echo $object->method_b(); // We can call method_b from 
+echo $object->method_a(); // We can call method_a using class 'B' 
                      // because class B extends from class A
-
-
-
 
