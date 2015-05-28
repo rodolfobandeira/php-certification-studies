@@ -40,8 +40,8 @@ autoloaders you don't have to worry about yours causing conflicts.
 
 ###TYPE HINTING
 
-(https://www.youtube.com/watch?v=oGeecEUK6cw)[https://www.youtube.com/watch?v=oGeecEUK6cw]
+[https://www.youtube.com/watch?v=oGeecEUK6cw](https://www.youtube.com/watch?v=oGeecEUK6cw)
 
 --
 ####References:
-(http://stackoverflow.com/questions/6894538/php-spl-autoload-register-vs-autoload)[http://stackoverflow.com/questions/6894538/php-spl-autoload-register-vs-autoload]
+[http://stackoverflow.com/questions/6894538/php-spl-autoload-register-vs-autoload](http://stackoverflow.com/questions/6894538/php-spl-autoload-register-vs-autoload)
