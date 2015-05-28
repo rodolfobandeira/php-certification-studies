@@ -25,7 +25,7 @@ vs
 function __autoload($class){
     include_once 'lib.'.$class.'.php';
 }
-``
+```
 
 ######Answer:
 
