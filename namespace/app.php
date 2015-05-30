@@ -26,3 +26,11 @@ $carro->honk();
 
 $caminhao = new Truck();
 $caminhao->honk();
+
+
+/*
+Output:
+
+Pam-Pam!
+Fon-Foooooon!
+*/
