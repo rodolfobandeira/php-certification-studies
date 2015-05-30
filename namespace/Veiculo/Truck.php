@@ -1,9 +1,9 @@
 <?php
-namespace Veiculo\Caminhao;
+namespace Veiculo;
 
 class Truck {
 
     public function honk(){
-        echo 'Fon-Fon';
+        printf("Fon-Foooooon! %s", PHP_EOL);
     }
 }

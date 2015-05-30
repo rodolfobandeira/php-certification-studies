@@ -1,8 +1,8 @@
 <?php
-namespace Veiculo\Carro;
+namespace Veiculo;
 
 class Car {
-    public function hork(){
-        echo "pa-pa";
+    public function honk(){
+        printf("Pam-Pam! %s", PHP_EOL);
     }
 }
