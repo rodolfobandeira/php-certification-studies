@@ -11,7 +11,7 @@ echo '-->' .chop("Ramkrishna", "a..z"). '<--'. PHP_EOL; // Remove right lowercas
 
 /*
 Output:
-
+----------
 -->   Ramki<--
 -->R<--
 
