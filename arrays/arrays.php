@@ -17,7 +17,7 @@ echo $last; // C
 echo (int) $first; // 0
 echo (int) $last;  // 0
 
-echo $first + $last // 0 + 0 = 0
+echo $first + $last; // 0 + 0 = 0
 
 // Conclusions:
 
