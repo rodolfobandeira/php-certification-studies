@@ -21,4 +21,11 @@ class Person {
 }
 
 $person = new Person;
+// Doesn't matter if I'm using new Person; or new Person();
+//
+
 echo $person->setName("Peter")->setAge(21); // echo on object automatically calls magic method __toString()
+echo PHP_EOL;
+
+echo $person; // printing the Object, it will call the macic method too!
+echo PHP_EOL;
