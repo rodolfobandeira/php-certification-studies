@@ -9,8 +9,12 @@ try {
         throw $e;
     } catch (MyException $e) {
         echo 'MyException';
+        echo '__CAIU_AQUI__';
         throw $e;
     }
 } catch (MyException $e) {
+    echo '__CAIU NO GET_CLASS__';
     echo get_class($e);
 }
+
+// Exception__CAIU NO GET_CLASS__MyException
