@@ -19,3 +19,9 @@ echo round($mem_usage/1048576,2)." megabytes\n";
  * 42 Mb
  */
 
+/*
+ * PHP 7.0.4 with Opcache
+ * 6 Mb
+ */
+
+
